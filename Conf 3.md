@@ -12,9 +12,6 @@
 - YARN (otro negociador de recursos)
 - Gestión de recursos y programación de trabajos
 - Herramientas relacionadas
-- Hive (consultas tipo SQL)
-- Pig (lenguaje de flujo de datos)
-- HBase (base de datos NoSQL orientada a columnas)
 
 images: https://www.altexsoft.com/blog/hadoop-pros-cons/
 
