@@ -1,1 +1,1 @@
-# Curso-de-procesamiento-de-grandes-volumenes-de-datos
+# Curso: Procesamiento de grandes volúmenes de datos
