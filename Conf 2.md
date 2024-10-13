@@ -1,17 +1,17 @@
-# Lecture 2: Big Data Architecture and Ecosystem
+# Conf 2: Arquitectura y ecosistema de Big Data
 
-- Components of Big Data Architecture
-- Data sources, storage, processing, analysis, visualization
-- Processing Paradigms
-- Batch processing vs. real-time processing
-- Introduction to Lambda and Kappa architectures
-- Big Data Technologies Overview
-- Hadoop ecosystem
+- Componentes de la arquitectura de Big Data
+- Fuentes de datos, almacenamiento, procesamiento, análisis, visualización
+- Paradigmas de procesamiento
+- Procesamiento por lotes frente a procesamiento en tiempo real
+- Introducción a las arquitecturas Lambda y Kappa
+- Visión general de las tecnologías Big Data
+- Ecosistema Hadoop
 - Apache Spark
-- NoSQL databases
-- Data Storage Solutions
-- Distributed File Systems
-- Data Lakes vs. Data Warehouses
+- Bases de datos NoSQL
+- Soluciones de almacenamiento de datos
+- Sistemas de archivos distribuidos
+- Lagos de datos frente a almacenes de datos
 
 1. Arquitectura General de Big Data (Añadir para la explicacion un diagrama que muestra el flujo desde las fuentes de datos hasta el análisis)
 
